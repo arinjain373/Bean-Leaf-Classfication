@@ -32,17 +32,8 @@ Test the model on some test samples and visualize predictions.
 Compute and display a confusion matrix and classification metrics like accuracy, precision, recall, and F1 score.
 
 ## Results
-After running the notebook, you should see:
 
-- Plots of training and validation accuracy and loss over epochs.
-- Confusion matrix of the test set predictions.
-- Classification metrics such as accuracy, precision, recall, and F1 score.
-
-Example of the confusion matrix:
-
-![Confusion Matrix](confusion_matrix.png)
-
-Example metrics:
+![Confusion Matrix](Confusion_matrix.png)
 
 - **Accuracy:** 0.898
 - **Precision:** 0.909
